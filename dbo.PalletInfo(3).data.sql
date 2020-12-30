@@ -1,0 +1,1 @@
+﻿INSERT INTO [dbo].[PalletInfo] ([Id], [DateTime], [DN], [ShipTo], [PoNo], [Carrier], [Pallets], [Boxes], [PaperToOpTime], [PickupTime], [remark]) VALUES (1, N'2020-12-22 04:15:00', N'83884444  ', N'Freshift Internetworking Inc                      ', N'2020-10-02     ', N'Customer Pickup     ', 3, 3, NULL, NULL, NULL)
